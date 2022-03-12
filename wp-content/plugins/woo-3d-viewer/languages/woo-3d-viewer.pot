@@ -1,0 +1,717 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-06 18:03+0300\n"
+"PO-Revision-Date: 2021-12-06 18:03+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/woo3dv-admin-shortcode-builder.php:14
+msgid "Please set \"Load On\" option to \"Shortcode\" in General Settings!"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:60
+#: includes/woo3dv-admin.php:799 includes/woo3dv-functions.php:531
+msgid "Set model"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:64
+msgid "Shortcode"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:64
+msgid "Generate"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:70
+msgid "Thumbnail URL"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:71
+msgid "Set Thumbnail"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:72
+msgid "Generate Thumbnail"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:81
+#: includes/woo3dv-admin.php:551
+msgid ""
+"Adjust angle with the left mouse button. Zoom with the scroll button. Adjust "
+"camera position with the right mouse button."
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:96
+#: includes/woo3dv-admin.php:502
+msgid "File Size"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:96
+#: includes/woo3dv-admin.php:295 includes/woo3dv-admin.php:315
+#: includes/woo3dv-admin.php:502
+msgid "mb"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:97
+#: includes/woo3dv-admin.php:503
+msgid "Polygon Count"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:104
+#: includes/woo3dv-admin.php:510
+msgid "Remember camera position"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:132
+#: includes/woo3dv-admin.php:529
+msgid "Repair"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:133
+#: includes/woo3dv-admin.php:530
+msgid "Reduce"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:134
+#: includes/woo3dv-admin.php:532
+msgid "Fit camera"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:137
+#: includes/woo3dv-admin.php:220 includes/woo3dv-admin.php:537
+msgid "X"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:139
+#: includes/woo3dv-admin.php:220 includes/woo3dv-admin.php:539
+msgid "Y"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:141
+#: includes/woo3dv-admin.php:541
+msgid "Z"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:143
+#: includes/woo3dv-admin.php:543
+msgid "Z Offset"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:152
+msgid "Canvas Width"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:154
+msgid "Canvas Height"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:156
+#: includes/woo3dv-admin.php:97
+msgid "Canvas Border"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:160
+#: includes/woo3dv-admin.php:559 includes/woo3dv-functions.php:550
+msgid "Color"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:162
+#: includes/woo3dv-admin.php:137 includes/woo3dv-admin.php:561
+msgid "Background Color"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:164
+#: includes/woo3dv-admin.php:563
+msgid "Transparent"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:168
+#: includes/woo3dv-admin.php:569 includes/woo3dv-functions.php:557
+msgid "Shininess"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:171
+#: includes/woo3dv-admin.php:118 includes/woo3dv-admin.php:572
+#: includes/woo3dv-functions.php:561
+msgid "Plastic"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:172
+#: includes/woo3dv-admin.php:119 includes/woo3dv-admin.php:573
+#: includes/woo3dv-functions.php:562
+msgid "Wood"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:173
+#: includes/woo3dv-admin.php:120 includes/woo3dv-admin.php:574
+#: includes/woo3dv-functions.php:563
+msgid "Metal"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:177
+#: includes/woo3dv-admin.php:149 includes/woo3dv-admin.php:577
+msgid "Grid Color"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:179
+#: includes/woo3dv-admin.php:273 includes/woo3dv-admin.php:579
+msgid "Show Grid"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:181
+#: includes/woo3dv-admin.php:141 includes/woo3dv-admin.php:581
+msgid "Fog Color"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:183
+#: includes/woo3dv-admin.php:255 includes/woo3dv-admin.php:583
+msgid "Show Fog"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:189
+#: includes/woo3dv-admin.php:589 includes/woo3dv-functions.php:568
+msgid "Transparency"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:192
+#: includes/woo3dv-admin.php:129 includes/woo3dv-admin.php:592
+#: includes/woo3dv-functions.php:572
+msgid "Opaque"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:193
+#: includes/woo3dv-admin.php:130 includes/woo3dv-admin.php:593
+#: includes/woo3dv-functions.php:573
+msgid "Resin"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:194
+#: includes/woo3dv-admin.php:131 includes/woo3dv-admin.php:594
+#: includes/woo3dv-functions.php:574
+msgid "Glass"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:197
+#: includes/woo3dv-admin.php:145 includes/woo3dv-admin.php:597
+msgid "Ground Color"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:199
+#: includes/woo3dv-admin.php:263 includes/woo3dv-admin.php:599
+msgid "Show Ground"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:204
+#: includes/woo3dv-admin.php:608
+msgid "Display mode"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:208
+#: includes/woo3dv-admin-shortcode-builder.php:228
+#: includes/woo3dv-admin.php:612 includes/woo3dv-admin.php:632
+msgid "3D model"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:209
+#: includes/woo3dv-admin-shortcode-builder.php:229
+#: includes/woo3dv-admin.php:613 includes/woo3dv-admin.php:633
+msgid "PNG image"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:210
+#: includes/woo3dv-admin-shortcode-builder.php:230
+#: includes/woo3dv-admin.php:614 includes/woo3dv-admin.php:634
+msgid "GIF image"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:211
+#: includes/woo3dv-admin-shortcode-builder.php:231
+#: includes/woo3dv-admin.php:615 includes/woo3dv-admin.php:635
+msgid "WEBM video"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:224
+#: includes/woo3dv-admin.php:628
+msgid "Mobile display mode"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:243
+msgid "Light Sources (Top)"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:268
+#: includes/woo3dv-admin.php:177
+msgid "Light Sources (bottom)"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:293
+#: includes/woo3dv-admin.php:672
+msgid "Show Shadow"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:297
+#: includes/woo3dv-admin.php:676
+msgid "Show Mirror"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:301
+#: includes/woo3dv-admin.php:223
+msgid "Auto Rotation"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:305
+msgid "Show Toolbar"
+msgstr ""
+
+#: includes/woo3dv-admin-shortcode-builder.php:309
+#: includes/woo3dv-admin.php:699
+msgid "Show View 3D Button"
+msgstr ""
+
+#: includes/woo3dv-admin.php:79
+msgid "Woo3DViewer Dashboard"
+msgstr ""
+
+#: includes/woo3dv-admin.php:82
+msgid "General Settings"
+msgstr ""
+
+#: includes/woo3dv-admin.php:83
+msgid "Shortcode Builder"
+msgstr ""
+
+#: includes/woo3dv-admin.php:90
+msgid "Default Settings"
+msgstr ""
+
+#: includes/woo3dv-admin.php:93
+msgid "Canvas Resolution"
+msgstr ""
+
+#: includes/woo3dv-admin.php:94
+msgid "Width"
+msgstr ""
+
+#: includes/woo3dv-admin.php:94
+msgid "Height"
+msgstr ""
+
+#: includes/woo3dv-admin.php:101
+msgid "Shading"
+msgstr ""
+
+#: includes/woo3dv-admin.php:104
+msgid "Flat"
+msgstr ""
+
+#: includes/woo3dv-admin.php:105
+msgid "Smooth"
+msgstr ""
+
+#: includes/woo3dv-admin.php:111
+msgid "Model Color"
+msgstr ""
+
+#: includes/woo3dv-admin.php:115
+msgid "Model Shininess"
+msgstr ""
+
+#: includes/woo3dv-admin.php:126
+msgid "Model Transparency"
+msgstr ""
+
+#: includes/woo3dv-admin.php:153 includes/woo3dv-admin.php:647
+msgid "Light Sources"
+msgstr ""
+
+#: includes/woo3dv-admin.php:203
+msgid "Loading Image"
+msgstr ""
+
+#: includes/woo3dv-admin.php:210
+msgid "View3D Image"
+msgstr ""
+
+#: includes/woo3dv-admin.php:219
+msgid "Default Rotation"
+msgstr ""
+
+#: includes/woo3dv-admin.php:227 includes/woo3dv-admin.php:684
+msgid "Auto Rotation Speed"
+msgstr ""
+
+#: includes/woo3dv-admin.php:233 includes/woo3dv-admin.php:690
+msgid "Auto Rotation Direction"
+msgstr ""
+
+#: includes/woo3dv-admin.php:236 includes/woo3dv-admin.php:693
+msgid "Clockwise"
+msgstr ""
+
+#: includes/woo3dv-admin.php:237 includes/woo3dv-admin.php:694
+msgid "Counter-Clockwise"
+msgstr ""
+
+#: includes/woo3dv-admin.php:243
+msgid "Show Toobar"
+msgstr ""
+
+#: includes/woo3dv-admin.php:245
+msgid "Enables frontend tools: fullscreen, zoom, auto rotation, screenshot"
+msgstr ""
+
+#: includes/woo3dv-admin.php:249
+msgid "Enable Controls (Zoom/Pan)"
+msgstr ""
+
+#: includes/woo3dv-admin.php:251
+msgid "Enables manual controls (zoom/pan) by mouse or swipe"
+msgstr ""
+
+#: includes/woo3dv-admin.php:259
+msgid "Show Shadows"
+msgstr ""
+
+#: includes/woo3dv-admin.php:268
+msgid "Ground Mirror"
+msgstr ""
+
+#: includes/woo3dv-admin.php:279
+msgid "Other"
+msgstr ""
+
+#: includes/woo3dv-admin.php:283
+msgid "Load On"
+msgstr ""
+
+#: includes/woo3dv-admin.php:286
+msgid "WooCommerce products with a 3D model"
+msgstr ""
+
+#: includes/woo3dv-admin.php:287
+msgid "Pages with the shortcode and WooCommerce products with a 3D model"
+msgstr ""
+
+#: includes/woo3dv-admin.php:288
+msgid "Everywhere"
+msgstr ""
+
+#: includes/woo3dv-admin.php:290
+msgid "Loads css and js files on certain pages of the site."
+msgstr ""
+
+#: includes/woo3dv-admin.php:294
+msgid "File Chunk Size"
+msgstr ""
+
+#: includes/woo3dv-admin.php:296
+msgid ""
+"Used for uploading WEBM and GIF files rendered by the plugin. Keep it under "
+"upload_max_filesize and post_max_size PHP directives."
+msgstr ""
+
+#: includes/woo3dv-admin.php:302
+msgid "Skip animation on mobile devices"
+msgstr ""
+
+#: includes/woo3dv-admin.php:306
+msgid "Disable rotation on mobile devices for better performance."
+msgstr ""
+
+#: includes/woo3dv-admin.php:310
+msgid "Model compression"
+msgstr ""
+
+#: includes/woo3dv-admin.php:314
+msgid "Compress models (ZIP) for faster loading."
+msgstr ""
+
+#: includes/woo3dv-admin.php:315
+msgid "Compress models larger than"
+msgstr ""
+
+#: includes/woo3dv-admin.php:317
+msgid ""
+"PHP zip extension is not enabled. Contact your hosting tech support to "
+"enable it."
+msgstr ""
+
+#: includes/woo3dv-admin.php:323
+msgid "Use cross domain proxy"
+msgstr ""
+
+#: includes/woo3dv-admin.php:327
+msgid "Proxy makes possible loading models from 3rd party sites."
+msgstr ""
+
+#: includes/woo3dv-admin.php:328
+msgid "Trusted domains"
+msgstr ""
+
+#: includes/woo3dv-admin.php:329
+msgid ""
+"Comma delimited list of domains you are loading models from. Please include "
+"both www and non-www domains, i.e.: example1.com, www.example1.com"
+msgstr ""
+
+#: includes/woo3dv-admin.php:339
+msgid "Save Changes"
+msgstr ""
+
+#: includes/woo3dv-admin.php:356
+msgid "Product model"
+msgstr ""
+
+#: includes/woo3dv-admin.php:534
+msgid "Set as main image"
+msgstr ""
+
+#: includes/woo3dv-admin.php:680
+msgid "Camera Auto Rotation"
+msgstr ""
+
+#: includes/woo3dv-admin.php:769
+msgid "Edit/Preview"
+msgstr ""
+
+#: includes/woo3dv-admin.php:775
+msgid "Remove"
+msgstr ""
+
+#: includes/woo3dv-admin.php:793
+msgid "Uploaded! You can now save the product."
+msgstr ""
+
+#: includes/woo3dv-functions.php:220 includes/woo3dv-functions.php:380
+msgid "Not available in your browser"
+msgstr ""
+
+#: includes/woo3dv-functions.php:221
+msgid "Model not found!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:222
+msgid "Please enable Preview Model in the settings of the plugin"
+msgstr ""
+
+#: includes/woo3dv-functions.php:223
+msgid "Please upload the model first"
+msgstr ""
+
+#: includes/woo3dv-functions.php:224
+msgid "WEBM rendering works only in Chrome browser"
+msgstr ""
+
+#: includes/woo3dv-functions.php:225
+msgid "Please don't switch to other tabs while rendering"
+msgstr ""
+
+#: includes/woo3dv-functions.php:226
+msgid ""
+"The amount of data we are going to submit is larger than post_max_size in "
+"php.ini ("
+msgstr ""
+
+#: includes/woo3dv-functions.php:227
+msgid "Repairing.."
+msgstr ""
+
+#: includes/woo3dv-functions.php:228
+msgid "Repairing.. done!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:229
+msgid "Error report:"
+msgstr ""
+
+#: includes/woo3dv-functions.php:230
+msgid "Repairing.. fail!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:231
+msgid "No errors found."
+msgstr ""
+
+#: includes/woo3dv-functions.php:232
+msgid "Degenerate facets"
+msgstr ""
+
+#: includes/woo3dv-functions.php:233
+msgid "Edges fixed"
+msgstr ""
+
+#: includes/woo3dv-functions.php:234
+msgid "Facets removed"
+msgstr ""
+
+#: includes/woo3dv-functions.php:235
+msgid "Facets added"
+msgstr ""
+
+#: includes/woo3dv-functions.php:236
+msgid "Facets reversed"
+msgstr ""
+
+#: includes/woo3dv-functions.php:237
+msgid "Backwards edges"
+msgstr ""
+
+#: includes/woo3dv-functions.php:239
+msgid "Can not repair textured models yet!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:240
+msgid "Can repair only STL and OBJ models"
+msgstr ""
+
+#: includes/woo3dv-functions.php:241
+msgid ""
+"The model will be sent to our server for repair.\n"
+"Repairing some models with very faulty geometries may result in broken "
+"models.\n"
+"Click OK if you agree."
+msgstr ""
+
+#: includes/woo3dv-functions.php:242
+msgid "Reducing.."
+msgstr ""
+
+#: includes/woo3dv-functions.php:243
+msgid "Reducing.. done!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:244
+msgid "No reduction needed"
+msgstr ""
+
+#: includes/woo3dv-functions.php:245
+#, php-format
+msgid "% of triangles to reduce"
+msgstr ""
+
+#: includes/woo3dv-functions.php:246
+msgid "Can not reduce textured models yet!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:247
+msgid "Can reduce only STL and OBJ models"
+msgstr ""
+
+#: includes/woo3dv-functions.php:248
+msgid ""
+"The model will be sent to our server for polygon reduction.\n"
+" Click OK if you agree."
+msgstr ""
+
+#: includes/woo3dv-functions.php:381
+msgid "Upgrade to Woo3DViewer PRO to have multiple viewers on one page!"
+msgstr ""
+
+#: includes/woo3dv-functions.php:522
+msgid "Woo3DViewer settings"
+msgstr ""
+
+#: includes/woo3dv-functions.php:527
+msgid "Custom Model"
+msgstr ""
+
+#: includes/woo3dv-functions.php:529
+msgid "STL, OBJ or ZIP file"
+msgstr ""
+
+#: includes/woo3dv-functions.php:532
+msgid "Delete"
+msgstr ""
+
+#: includes/woo3dv-functions.php:536 includes/woo3dv-functions.php:1191
+#: includes/woo3dv-functions.php:1458
+msgid "Rotation"
+msgstr ""
+
+#: includes/woo3dv-functions.php:560 includes/woo3dv-functions.php:571
+msgid "Default"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1187 includes/woo3dv-functions.php:1454
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1188 includes/woo3dv-functions.php:1455
+msgid "Wireframe"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1189 includes/woo3dv-functions.php:1456
+msgid "Zoom In"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1190 includes/woo3dv-functions.php:1457
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1192 includes/woo3dv-functions.php:1459
+msgid "Screenshot"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1193 includes/woo3dv-functions.php:1460
+msgid "Help"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1198 includes/woo3dv-functions.php:1465
+msgid "Controls"
+msgstr ""
+
+#: includes/woo3dv-functions.php:1202 includes/woo3dv-functions.php:1469
+msgid "Rotate with the left mouse button. "
+msgstr ""
+
+#: includes/woo3dv-functions.php:1203 includes/woo3dv-functions.php:1470
+msgid "Zoom with the scroll button. "
+msgstr ""
+
+#: includes/woo3dv-functions.php:1204 includes/woo3dv-functions.php:1471
+msgid "Adjust camera position with the right mouse button."
+msgstr ""
+
+#: includes/woo3dv-functions.php:1205 includes/woo3dv-functions.php:1472
+msgid "Double-click to enter the fullscreen mode."
+msgstr ""
+
+#: includes/woo3dv-functions.php:1206 includes/woo3dv-functions.php:1473
+msgid "On mobile devices swipe to rotate."
+msgstr ""
+
+#: includes/woo3dv-functions.php:1207 includes/woo3dv-functions.php:1474
+msgid "On mobile devices pinch two fingers together or apart to adjust zoom."
+msgstr ""
+
+#: includes/woo3dv-functions.php:1208 includes/woo3dv-functions.php:1209
+#: includes/woo3dv-functions.php:1475
+msgid "On mobile devices 3 finger horizontal swipe performs panning."
+msgstr ""
+
+#: includes/woo3dv-functions.php:1758
+msgid "Woo3DViewer detected other 3D viewers which may cause conflicts: "
+msgstr ""
+
+#: includes/woo3dv-functions.php:1842
+msgid "Unknown error."
+msgstr ""
+
+#: woocommerce/single-product/product-image20.php:42
+#: woocommerce/single-product/product-image263.php:47
+msgid "Placeholder"
+msgstr ""

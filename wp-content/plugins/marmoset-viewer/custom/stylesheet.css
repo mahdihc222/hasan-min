@@ -1,0 +1,192 @@
+body {
+	margin: 0;
+}
+form {
+	font-size: 1.1em;
+	line-height: 1.65em;
+}
+
+form input {
+	font-size: 1.1em;
+}
+
+input[type=submit] {
+	float: right;
+}
+.mce-container .mce-window-head .mce-title {
+    font-size: 25px !important;
+    line-height: 60px !important;
+}
+.mce-container .mce-window-head .mce-close {
+    top: 11px !important;
+	
+}
+.mce-container {
+    border-radius: 4px !important;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+.mce-container .mce-window-head {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid #ddd;
+    line-height: 5rem;
+    min-height: 60px !important;
+}
+.btn, .btn-flat, .btn-large {
+    border: medium none;
+    border-radius: 2px;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    outline: 0 none;
+    padding: 0 2rem;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+.btn, .btn-large {
+    background-color: #F42139;
+    color: #fff;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.2s ease-out 0s;
+	border-radius: 4px;
+	font-family: 'Open Sans', sans-serif;
+}
+.btn-large:hover, .btn:hover {
+    background-color: #E10E26;
+}
+.btn-default {
+    background: #5cb85c none repeat scroll 0 0;
+    line-height: 2.6rem;
+    height: 2.8rem;
+    text-transform: capitalize;
+    letter-spacing: 0.015em;
+    width: 53%;
+}
+.btn-default:hover {
+    background: #449d44 none repeat scroll 0 0;
+}
+.marmoset-modal-body .group-btns .file-field-control {
+    margin-left: 15px;
+	width: 95%;
+    font-size: 12px;
+    padding-right: 6px;
+    margin-left: 15px;
+}
+.marmoset-modal-body .mview-file-input .mview-options label {
+  width: 100%;
+  text-align: left;
+  text-transform: capitalize;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-end;
+  padding-left: 10px;
+}
+.marmoset-modal-body .mview-file-input .mview-options label:nth-child(2) {
+  background: #f6f6f6;
+}
+.marmoset-modal-body .mview-file-input .mview-options label input {
+  margin-right: 10px;
+}
+.marmoset-modal-body .group-btns .btn {
+    width: 48% !important;
+}
+.marmoset-modal-body .input-group .input-group-btn {
+    width: 100%;
+}
+.marmoset-modal-body .input-group .upload_mview_button {
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+    height: 2.8rem;
+    line-height: 2.6rem;
+    width: auto;
+    letter-spacing: 0.015em;
+    text-transform: capitalize;
+    margin-left: 15px !important;
+}
+.marmoset-modal-body .input-group .file-field-control {
+    border: none;
+	border-bottom: 1px solid;
+    float: left;
+    font-weight: bold;
+    line-height: 2.8rem;
+    margin-left: 15px;
+    width: 96%;
+}
+.marmoset-modal-body .mview-file-input .input-group {
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+.marmoset-modal-body .mview-file-input .mview-options {
+    line-height: 3rem;
+    overflow: hidden;
+}
+.marmoset-modal-body .mview-file-input .mview-options label, .marmoset-modal-body .mview-file-input .mview-options input {
+    cursor: pointer;
+}
+
+.marmoset-modal-body {
+    font-size: 13px;
+    padding: 15px 0 0 0;
+    position: relative;
+}
+.marmoset-modal-body .mview-file-input {
+    padding: 0 15px;
+}
+.marmoset-modal-body label {
+    display: block;
+    float: left;
+    font-family: arial;
+    font-weight: bold;
+    line-height: 2.8rem;
+    text-align: right;
+    text-transform: uppercase;
+    width: 44%;
+}
+.marmoset-modal-body > input[type="text"] {
+	border: 1px solid #e5e5e5;
+	margin: 0 0 0 5px;
+	padding: 5px;
+	width: 69%;
+}
+.marmoset-modal-footer {
+    border-top: 1px solid #ddd;
+    margin-top: 20px;
+    overflow: hidden;
+    padding: 15px;
+    text-align: right;
+}
+.upload_mview_button {
+	margin: 0 0 10px !important;
+}
+
+.marmoset-logo {
+    left: 0;
+    margin: auto;
+    opacity: 0.1;
+    overflow: hidden;
+    position: absolute;
+    right: 0;
+    top: 260px;
+    transform: rotate(0deg);
+    width: 510px;
+    z-index: -33;
+}
+
+.mce-title img {
+	fill: blue;
+	margin: 5px 5px 0 0;
+	width: 24px;
+}
+
+.mceTmpl p {
+    font-family: arial;
+    font-size: 14px;
+    line-height: 33px;
+    margin-bottom: 0;
+    padding: 0px 29px;
+}

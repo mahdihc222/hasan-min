@@ -1,0 +1,49 @@
+	.mce-mviewer-modal .mce-window-head {
+		background: #F42139;
+		padding: 10px;
+	}
+	.mce-mviewer-modal .mce-window-head .mce-title {
+		color: #fff;
+		padding: 0 10px;
+	}
+	.mce-mviewer-modal .mce-window-head .mce-close i::before {
+		color: #fff !important;
+		font-size: 40px !important;
+	}
+	.mce-mviewer-modal .mce-window-head  .mce-close {
+		margin-right: 10px;
+		margin-top: 9px;
+	}
+	.mce-mviewer-modal .mce-window-head  .mce-close:hover {
+		opacity: 0.8;
+	}
+	.mce-mviewer-modal .mce-container-body {
+		width: 100% !important;
+		float: right;
+	}
+	.mce-mviewer-modal .mce-container-body::before {
+		height: 100%;
+		width: 190px;
+		background: #fff;
+			background-image: none;
+			background-repeat: repeat;
+			background-position-x: 0%;
+			background-position-y: 0%;
+			background-size: auto auto;
+		background-image: url(marmoset-24x24-mce.svg);
+		float: left;
+		position: absolute;
+		left: 30px;
+		top: -1px;
+		content: "";
+		background-repeat: no-repeat;
+		background-size: 80%;
+		background-position: center;
+	}
+	.mce-mviewer-modal .mce-container-body iframe {
+		width: 70%;
+		float: right;
+	}
+	.photo {
+		display: none;
+	}
